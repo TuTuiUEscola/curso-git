@@ -1,0 +1,3 @@
+nesta aula aprendemos algumas funções do git
+git status mostra o estado atual do repositório
+git commit cria um commit com a mensagem "nome do commit"
